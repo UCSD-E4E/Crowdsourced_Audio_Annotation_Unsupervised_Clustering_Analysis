@@ -1,5 +1,0 @@
-{
-    "orig_dir":"data\\raw\\NIPS4B_BIRD_CHALLENGE_TRAIN_TEST_WAV",
-    "aug_dir":"data\\raw\\AUGMENTED_NIPS4B_BIRD_CHALLENGE_TRAIN_TEST_WAV",
-    "sample_rates": {"test": 44100, "train": 44100}
-}
